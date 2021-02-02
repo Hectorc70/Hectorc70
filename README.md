@@ -1,7 +1,7 @@
 ### Hola mucho gusto, mi nombre es Héctor Garcia Nieves 👋
 
 
-![alt text](https://whvn.cc/zxg7gj)
+![alt text](https://raw.githubusercontent.com/hectorc70/hectorc70/master/wallhaven-zxg7gj.jpg)
 
 <!--
 **Hectorc70/Hectorc70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
