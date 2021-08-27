@@ -10,7 +10,7 @@ ocupada. 😄⚡
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecg.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-garcia-n/)
-![global](https://user-images.githubusercontent.com/55261340/131181900-0fb486c4-ddad-4bc4-8355-3175027a42be.png)](https://hectorgarciadev.online/)
+![global](https://user-images.githubusercontent.com/55261340/131181900-0fb486c4-ddad-4bc4-8355-3175027a42be.png?style=for-the-badge)](https://hectorgarciadev.online/)
 
 
 ##### Mis Herramientas
