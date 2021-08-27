@@ -1,9 +1,6 @@
 # Hola que tal, Soy Héctor 👋
 
-[![GitHub Hectorc](https://img.shields.io/github/followers/marcossevilla?label=follow&style=social)](https://github.com/Hectorc70)
-[![LinkedIn: Hector Garcia](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hector-garcia-n/)](https://www.linkedin.com/in/hector-garcia-n/)
-
-![photo_2021-08-27_14-26-59](https://user-images.githubusercontent.com/55261340/131179013-5392207a-0c6e-499a-b72a-77148e6e50aa.jpg)
+![image](https://user-images.githubusercontent.com/55261340/131182556-52d6b69a-2482-4702-ad24-29508adceda1.png)
 
 Me apasiona el mundo de la tecnologia, hardware, software por eso mismo empece a estudiar programación,
 me enfocado en desarrollo web y desarrollo movil hibrido.
