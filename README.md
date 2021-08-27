@@ -1,9 +1,6 @@
-# Hola que tal, Soy Héctor 👋
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
-[![GitHub Hectorc](https://img.shields.io/github/followers/marcossevilla?label=follow&style=social)](https://github.com/Hectorc70)
-[![LinkedIn: Hector Garcia](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hector-garcia-n/)](https://www.linkedin.com/in/hector-garcia-n/)
-
-![photo_2021-08-27_14-26-59](https://user-images.githubusercontent.com/55261340/131179013-5392207a-0c6e-499a-b72a-77148e6e50aa.jpg)
+##### Hola que tal, Soy Hécctor:
 
 Me apasiona el mundo de la tecnologia, hardware, software por eso mismo empece a estudiar programación,
 me enfocado en desarrollo web y desarrollo movil hibrido.
@@ -12,20 +9,14 @@ En general me considero una persona autodidacta, curiosa, responsable, se trabaj
 con ganas de siempre estar aprendiendo cosas nuevas y en busca de nuevos retos que mantenga mi mente 
 ocupada. 😄⚡
 
-## Mis Herramientas
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecg.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-garcia-n/)
 
+##### MIS Lenguajes
 
-<!--
-**Hectorc70/Hectorc70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django]()
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
