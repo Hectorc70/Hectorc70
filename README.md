@@ -1,27 +1,32 @@
+# Hola que tal, Soy Héctor 👋
 
-##### Hola que tal, Soy Hécctor:
+[![GitHub Hectorc](https://img.shields.io/github/followers/marcossevilla?label=follow&style=social)](https://github.com/Hectorc70)
+[![LinkedIn: Hector Garcia](https://img.shields.io/badge/MarcosSevilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hector-garcia-n/)](https://www.linkedin.com/in/hector-garcia-n/)
+
+![photo_2021-08-27_14-26-59](https://user-images.githubusercontent.com/55261340/131179013-5392207a-0c6e-499a-b72a-77148e6e50aa.jpg)
 
 Me apasiona el mundo de la tecnologia, hardware, software por eso mismo empece a estudiar programación,
 me enfocado en desarrollo web y desarrollo movil hibrido.
 
 En general me considero una persona autodidacta, curiosa, responsable, se trabajar en equipo,
 con ganas de siempre estar aprendiendo cosas nuevas y en busca de nuevos retos que mantenga mi mente 
-ocupada. 😄⚡  
+ocupada. 😄⚡
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecg.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-garcia-n/)
-![global](https://user-images.githubusercontent.com/55261340/131181900-0fb486c4-ddad-4bc4-8355-3175027a42be.png?style=for-the-badge)](https://hectorgarciadev.online/)
+## Mis Herramientas
 
 
-##### Mis Herramientas
-![piton](https://user-images.githubusercontent.com/55261340/131180941-e350295b-e72c-46bf-ad55-5448101abba8.png)
-![icons8-django-240](https://user-images.githubusercontent.com/55261340/131181477-3248d245-0beb-4e4f-946a-21f81cdd755c.png)
-![css-3](https://user-images.githubusercontent.com/55261340/131181067-cbe2acfe-594c-4e4a-93b1-b7872305ba30.png)
-![html](https://user-images.githubusercontent.com/55261340/131181202-7c45f26b-2b31-441f-bdfa-c9999c581915.png)
-![icons8-javascript-144](https://user-images.githubusercontent.com/55261340/131181426-f682ce9a-43e1-4101-a5de-9b695a8a3159.png)
-![icons8-flutter-240](https://user-images.githubusercontent.com/55261340/131181570-e610606b-b717-41ca-8ba5-5bbcd479c3df.png)
-![icons8-dart-240](https://user-images.githubusercontent.com/55261340/131181611-ff1ead3b-c55e-47ed-a3e6-7844e48923dc.png)
+<!--
+**Hectorc70/Hectorc70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
