@@ -6,7 +6,7 @@ me enfocado en desarrollo web y desarrollo movil hibrido.
 
 En general me considero una persona autodidacta, curiosa, responsable, se trabajar en equipo,
 con ganas de siempre estar aprendiendo cosas nuevas y en busca de nuevos retos que mantenga mi mente 
-ocupada. 😄⚡
+ocupada. 😄⚡  
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecg.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-garcia-n/)
