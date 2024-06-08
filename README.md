@@ -9,7 +9,8 @@ En general me considero una persona autodidacta, curiosa, responsable, se trabaj
 con ganas de siempre estar aprendiendo cosas nuevas y en busca de nuevos retos que mantenga mi mente 
 ocupada. 😄⚡
 ## Contacto
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![GMAIL]([https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
+
 ## Mis Herramientas
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
