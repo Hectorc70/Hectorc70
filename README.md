@@ -1,24 +1,80 @@
-# Hola que tal, Soy Héctor 👋
+# 👋 Héctor G — Full-Stack Engineer
 
-![image](https://user-images.githubusercontent.com/55261340/131182556-52d6b69a-2482-4702-ad24-29508adceda1.png)
+🌐 https://hectordeveloper.com  
+📍 Mexico | Remote Friendly  
 
-Me apasiona el mundo de la tecnologia, hardware, software por eso mismo empece a estudiar programación,
-me enfocado en desarrollo web y desarrollo movil hibrido.
+Soy Full-Stack Engineer especializado en backend con Django y desarrollo móvil con Flutter.  
+Diseño y construyo sistemas SaaS escalables, APIs robustas y aplicaciones móviles enfocadas en rendimiento y mantenibilidad.
 
-En general me considero una persona autodidacta, curiosa, responsable, se trabajar en equipo,
-con ganas de siempre estar aprendiendo cosas nuevas y en busca de nuevos retos que mantenga mi mente 
-ocupada. 😄⚡
-## Contacto
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+Trabajo con una mentalidad orientada a arquitectura, automatización y mejora continua.
 
-## Mis Herramientas
+---
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-##
-![Hector' Github Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Hectorc70)
+## 🧠 Enfoque Profesional
+
+Mi enfoque está en construir software:
+
+- Escalable desde su diseño inicial
+- Bien estructurado y mantenible
+- Seguro y orientado a buenas prácticas
+- Preparado para producción
+
+Tengo experiencia desarrollando:
+
+- Sistemas SaaS multi-tenant
+- APIs REST estructuradas y documentadas
+- Aplicaciones móviles conectadas a backend propio
+- Integraciones con servicios externos (pagos, notificaciones, autenticación, video)
+- Infraestructura en VPS con Docker y Nginx
+
+---
+
+## ⚙️ Stack Principal
+
+### Backend
+- Python
+- Django
+- Django REST Framework
+- Node.js (cuando el proyecto lo requiere)
+
+### Frontend Web
+- JavaScript
+- TypeScript
+- React
+
+### Mobile
+- Dart
+- Flutter
+
+### Infraestructura & DevOps
+- Docker
+- Nginx
+- Linux
+- VPS deployments
+- CI/CD básico
+
+---
+
+## 🏗️ Experiencia Técnica
+
+- Arquitectura multi-base de datos por cliente
+- Control avanzado de permisos y autenticación
+- Optimización de consultas y rendimiento
+- Manejo de estados complejos en Flutter (Bloc / Riverpod)
+- Integración de pasarelas de pago
+- Debugging avanzado en producción
+- Automatización de despliegues
+
+---
+
+## 📊 GitHub Stats
+
+![Hector GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hectorc70&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hectorc70&layout=compact&theme=default)
+
+---
+
+## 📬 Contacto
+
+🌐 https://hectordeveloper.com  
